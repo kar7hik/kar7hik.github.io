@@ -1,0 +1,14 @@
+#+TITLE: Jekyll and Org together
+#+LAYOUT: posts
+#+TAGS: jekyll org-mode
+
+This is a blog post about Jekyll and Org mode.
+
+
+* Introduction
+#+BEGIN_SRC lisp
+  (defun hello-world ()
+    "Prints Hello World!"
+    (format t "~&Hello World!!"))
+
+#+END_SRC
