@@ -1,6 +1,7 @@
 #+TITLE: Jekyll and Org together 12324
 #+LAYOUT: posts
 #+TAGS: jekyll org-mode
+#+liquid: enabled
 
 This is a blog post about Jekyll and Org mode.
 
