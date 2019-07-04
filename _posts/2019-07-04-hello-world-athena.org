@@ -9,6 +9,7 @@ This is a blog post about Jekyll and Org mode.
 #+BEGIN_SRC lisp
   (defun hello-world ()
     "Prints Hello World!"
-    (format t "~&Hello World!!"))
+    (format t "~&Hello World!!")
+    (format t "Athena"))
 
 #+END_SRC
