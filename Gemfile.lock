@@ -39,7 +39,7 @@ GEM
       jekyll (>= 3.3, < 5.0)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
-    json (2.2.0)
+    json (2.3.1)
     kramdown (1.17.0)
     liquid (4.0.3)
     listen (3.1.5)
@@ -81,7 +81,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 3.8.6)
   jekyll-feed (~> 0.6)
-  jekyll-org (~> 1.0.2)
+  jekyll-org (>= 1.0.2)
   minima (~> 2.0)
   tzinfo (~> 1.2)
   tzinfo-data
